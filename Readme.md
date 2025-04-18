@@ -1,4 +1,5 @@
-# Quantized MobileNet — Variable‑Precision Blocks & BitOps Calculator
+##You can interact with the app here: [Gradio App](https://huggingface.co/spaces/Hussain5/Quantized-Mobilenet)
+## Quantized MobileNet — Variable‑Precision Blocks & BitOps Calculator
 
 This repository demonstrates the design and implementation of a **Convolutional Neural Network (CNN)** architecture using a list of **MobileNet blocks**. The unique aspect of this implementation is that **each block can use a different weight precision**, meaning each layer can have a different number of bits for its weights (e.g., 2-bit, 4-bit, 8-bit). 
 
